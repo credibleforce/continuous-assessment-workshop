@@ -1,1 +1,3 @@
-# continuous-assessment-2021-06-08
+# Continuous Assessment
+
+Lab materials for continuous assessment workshop
